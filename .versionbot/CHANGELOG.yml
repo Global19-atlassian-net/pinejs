@@ -1,4 +1,26 @@
 - commits:
+    - subject: Use readTransaction for read-only requests
+      hash: 2686902065a286767400aa7c79d70a72e629384f
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Pagan Gazzard
+      nested: []
+  version: 13.14.0
+  date: 2020-08-24T12:36:14.865Z
+- commits:
+    - subject: Make use of optional assignment syntax
+      hash: 5c5a7309790a38a7f1cb3f1119b485e0b9f4796f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+      nested: []
+  version: 13.13.7
+  date: 2020-08-24T12:25:49.766Z
+- commits:
     - subject: Improve async stack traces
       hash: aa74e0de7b60d588f9ba3be0d91a9b6cde05555a
       body: ''
